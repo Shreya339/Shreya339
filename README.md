@@ -1,8 +1,8 @@
 ## 👋 &nbsp;Hey there! I'm Shreya
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I love to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at University of Southern California.\
 💼 &nbsp;I've previously worked as a Full-stack developer at Mercedes Benz.\
 🌱 &nbsp;I'm on track for learning more about DevOps, System Design, and Cloud Architecture.\
