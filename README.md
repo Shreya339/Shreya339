@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about DevOps, System Design, and Cloud Architecture.\
 ⚡ &nbsp;I have a super-power of sitting at a desk and coding for more than 24 hours just to deliver something to make our world a better place!\
 ✍️ &nbsp;When I'm not hunched over my laptop, coding away, you'll often find me immersed in the pages of history books uncovering the fascinating stories that have shaped our world.\
-🌐 &nbsp;Don't forget checkout my [PORTFOLIO](https://shreya339.github.io/Portfolio/)\
+🌐 &nbsp;Don't forget to checkout my [PORTFOLIO](https://shreya339.github.io/Portfolio/)\
 ✉️ &nbsp;You can shoot me an email at shashida@usc.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1K6psj8RNljw15M2nU-Lm9RgOE8mJfwI_/view) for more details about me. I'm open to feedback and suggestions!
 
