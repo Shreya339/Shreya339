@@ -10,7 +10,7 @@
 ✍️ &nbsp;When I'm not hunched over my laptop, coding away, you'll often find me immersed in the pages of history books uncovering the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fascinating stories that have shaped our world.\
 🌐 &nbsp;Don't forget to checkout my [PORTFOLIO](https://shreya339.github.io/Portfolio/)\
 ✉️ &nbsp;You can shoot me an email at shashida@usc.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Have a look at my [Résumé]([https://drive.google.com/file/d/1K6psj8RNljw15M2nU-Lm9RgOE8mJfwI_/view](https://drive.google.com/file/d/1R_QM0jpGuKibnPrb4jZuJx5V87LSOLkb/view?usp=drive_link)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1K6psj8RNljw15M2nU-Lm9RgOE8mJfwI_/view) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
